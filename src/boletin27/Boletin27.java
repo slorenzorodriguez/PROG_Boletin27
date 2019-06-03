@@ -2,7 +2,7 @@
 package boletin27;
 
 /**
- * @author raguiarperez
+ * @author slorenzorodriguez
  */
 public class Boletin27 {
 

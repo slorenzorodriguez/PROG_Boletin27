@@ -3,7 +3,7 @@ package boletin27;
 
 /**
  *
- * @author rafsniper99
+ * @author slorenzorodriguez
  */
 public class Ventana extends javax.swing.JFrame {
 
